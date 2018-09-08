@@ -19,6 +19,12 @@ In XTerm sender
 4. Once sender finished sending data and received the Acked FIN packet. Print "Done" and closed the socket.
 5. Once receiver received the FIN packet, printed the completion string, timer starting for 5 seconds and then closed the socket. Executed the new loop and socket for waiting input packets.
 
-（3）Design:
+（3）Design:  
+<img width="70%" src="./img/1.jpeg"></img> 
+<img width="70%" src="./img/2.jpeg"></img> 
+<img width="70%" src="./img/3.jpeg"></img>
 
-(4)Results and analysis:
+
+(4)Results and analysis:  
+<img width="70%" src="./img/data.jpeg"></img> 
+<img width="70%" src="./img/plot.jpeg"></img>
